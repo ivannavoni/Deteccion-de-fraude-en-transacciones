@@ -1,6 +1,6 @@
 Deteccion de fraude en transacciones
 
-Identificar y alertar transacciones que cumplen el patrón de "Viaje Imposible": cuentas con múltiples movimientos en ubicaciones geográficas distintas dentro de un lapso muy corto.
+Identificar y alertar transacciones fraudulentas de cuentas con múltiples movimientos en ubicaciones geográficas distintas dentro de un lapso muy corto.
 
 Objetivo: Identificar y alertar transacciones que cumplen el patrón de "Viaje Imposible": cuentas con múltiples movimientos en ubicaciones geográficas distintas dentro de un lapso muy corto.
 Impacto: Diseño e implementación de un motor de reglas SQL para aislar anomalías de alto riesgo en la base de datos, demostrando la capacidad de generar Alertas de Riesgo para el equipo de fraude.
